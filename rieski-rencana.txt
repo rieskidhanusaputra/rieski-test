@@ -4,5 +4,7 @@ Rencana Belajar
 - CSS
   * Framework CSS
 - Javascript
-  * Framework JS
+  * Vue JS
 - PHP
+  * Laravel
+- Phyton
